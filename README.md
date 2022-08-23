@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @randeepsarma
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email or phone
 
